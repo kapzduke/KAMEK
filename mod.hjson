@@ -1,6 +1,7 @@
 {
     name: "kamek",
     minGameVersion: 141.3,
+    repo: "sunkymp3g/kamek",
     version: "0.1beta",
     
     displayName: "KAMEK",
