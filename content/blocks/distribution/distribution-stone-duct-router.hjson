@@ -1,0 +1,16 @@
+{
+    type: "Router",
+    category: "distribution",
+
+    health: 110,
+
+	research: {
+        parent: "kamek-distribution-stone-duct",
+        requirements: [
+            "kamek-item-stone/66",
+        ]
+	}
+        requirements: [
+            "kamek-item-stone/3"
+        ]
+}
