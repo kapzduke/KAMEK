@@ -17,4 +17,4 @@ A new planet,
 
 Languages:
      - English
-	 - Russian/Русский
+     - Russian/Русский
