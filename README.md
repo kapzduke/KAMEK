@@ -16,5 +16,5 @@ At the moment mod contains:
      - 2 Units
 
 Languages:
-     - English
+     - English,
      - Russian/Русский
