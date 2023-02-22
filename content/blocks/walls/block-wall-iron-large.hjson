@@ -6,7 +6,7 @@
     health: 2400,
 
     research: {
-        parent: "kamek-block-iron-wall",
+        parent: "kamek-block-wall-iron",
         requirements: [
             "kamek-item-iron-ingot/240"
         ]
@@ -16,6 +16,6 @@
         "kamek-item-iron-ingot/24"
     ],
         objectives: [
-            "kamek-block-iron-wall"
+            "kamek-block-wall-iron"
 		]
 }
