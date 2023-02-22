@@ -3,7 +3,7 @@
     category: "distribution",
 
     health: 90,
-    speed: 7.5,
+    speed: 12.5,
 
 	research: {
          parent: "kamek-block-core-hill",
