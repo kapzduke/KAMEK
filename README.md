@@ -8,7 +8,7 @@ This is a beta, it can contain bugs, if you found a bug, tell me.
 
 At the moment mod contains:
 
-A new planet,
+     - A new planet,
      - 1 Sector,
      - 7 Blocks,
      - 3 Items,
